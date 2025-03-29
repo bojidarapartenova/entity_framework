@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\dataprocessor\\exportdtos\\exporttourpackagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\exporttourpackagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\dataprocessor\\exportdtos\\exportguidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\exportguidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\bpart\\documents\\softuni\\softunientityframework\\exampreparation\\travelagency\\travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:14:44.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:14:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:11:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportTourPackagesDto.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\ExportDtos\\ExportTourPackagesDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\ExportTourPackagesDto.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\ExportDtos\\ExportTourPackagesDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\ExportTourPackagesDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:08:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportGuidesDto.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:06:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourPackage.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:09:50.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\StartUp.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\StartUp.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\StartUp.cs",
+              "RelativeToolTip": "TravelAgency\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:58:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:05:33.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:01:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TravelAgencyContext.cs",
+              "DocumentMoniker": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ToolTip": "C:\\Users\\bpart\\Documents\\SoftUni\\SoftUniEntityFramework\\ExamPreparation\\TravelAgency\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:59:06.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
